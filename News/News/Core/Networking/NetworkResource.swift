@@ -23,6 +23,6 @@ extension NetworkResource {
     }
     
     var timeoutInterval: Double {
-        return 3.0
+        return 10.0
     }
 }
